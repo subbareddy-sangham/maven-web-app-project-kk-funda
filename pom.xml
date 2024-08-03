@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://54.90.153.159:8088/repository/kk-web-app-releases/</url>
+	      <url>http://50.19.50.104:8088/repository/kk-web-app-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://54.90.153.159:8088/repository/kk-web-app-snapshots/</url>
+	      <url>http://50.19.50.104:8088/repository/kk-web-app-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
