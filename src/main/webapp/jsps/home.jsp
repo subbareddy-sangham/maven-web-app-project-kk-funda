@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to KK FUNDA Chennai</h1>
-<h1 align="center">KK FUNDA---Right Place for Learning Devops and SRE</h1>
+<h1 align="center">KK FUNDA---Right Place for Learning Devops,SRE, DevSecOps & MLOps are added</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
