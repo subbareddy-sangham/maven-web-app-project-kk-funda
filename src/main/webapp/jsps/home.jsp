@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Welcome to KK FUNDA Home Page</title>
+<title>Welcome to KK FUNDA Home Page with new features</title>
 <link href="images/kkfunda.jpg" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">Welcome to KK FUNDA Bangalore</h1>
-<h1 align="center">KK FUNDA---Right Place for Learning Devops and many</h1>
+<h1 align="center">KK FUNDA---Your are at the right place to get good knowledge</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
